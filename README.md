@@ -1,4 +1,3 @@
-![image](https://github.com/Narasimhan05/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/132819871/5eadb3a7-a2cd-4a41-bba2-248891ca801a)# 5a_Create_Socket_for_HTTP_for_webpage_upload_and_download
 ## AIM :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm
